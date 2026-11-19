@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentMVVM</string>
+    <string name="title_student_list">Quản Lý Sinh Viên</string>
+    <string name="action_sync">Đồng bộ Cloud</string>
+    <string name="empty_message">Chưa có sinh viên nào.\nBấm nút + để thêm mới.</string>
+</resources>
